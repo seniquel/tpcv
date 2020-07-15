@@ -23,3 +23,7 @@ body {
   color: #000;
   background-color: #ccebff;
 }
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
