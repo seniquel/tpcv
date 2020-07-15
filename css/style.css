@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(70deg, #e6e6e6, #f7f7f7);
+  color: #514B64;
+  min-height: 100vh;
+}
+.note5sur5{
+  color: #fff;
+  background-color: #005c99;
+}
+.note4sur5{
+  color: #fff;
+  background-color: #008ae6;
+}
+.note3sur5 {
+  color: #fff;
+  background-color: #33adff;
+}
+.note2sur5 {
+  color: #fff;
+  background-color: #80ccff;
+}
+.note1sur5 {
+  color: #000;
+  background-color: #ccebff;
+}
